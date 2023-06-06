@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align=center>
+  <a href="https://discord.com/users/1104067293153071165"><img src="https://lanyard.cnrad.dev/api/1104067293153071165" width=45%></a>
+</p>
 
-<!--
-**verxn1337/verxn1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+┌──(verxn@root)-[~/]
+└─$ cat verxn.py
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class verxn:
+
+def  __social__(self):
+ self.gtb = "https://github.com/verxn1337"
+ self.dsc = "verxn#1997" 
+ self.ins = "berat7tl"
+  
+ ┌──(verxn@root)-[~/]
+ └─$
+```
+<p align="center"><img src="https://moe-counter.glitch.me/get/@:verxn1337" alt=":verxn1337" /></p>
+
+
+
+
