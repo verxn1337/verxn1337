@@ -17,6 +17,9 @@ def  __social__(self):
  ┌──(verxn@root)-[~/]
  └─$
 ```
+
+<blockquote class="twitter-tweet"><p lang="tr" dir="ltr">yazmaya izinim yetkim var</p>&mdash; berat (@verxn1337) <a href="https://twitter.com/verxn1337/status/1671575990810681354?ref_src=twsrc%5Etfw">June 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p align="center"><img src="https://moe-counter.glitch.me/get/@:verxn1337" alt=":verxn1337" /></p>
 
 
