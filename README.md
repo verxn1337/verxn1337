@@ -1,5 +1,5 @@
 <p align=center>
-  <a href="https://discord.com/users/1104067293153071165"><img src="https://lanyard.cnrad.dev/api/1104067293153071165" width=45%></a>
+  <a href="https://discord.com/users/1137981256672497704"><img src="https://lanyard.cnrad.dev/api/1137981256672497704" width=45%></a>
 </p>
 
 
@@ -11,7 +11,7 @@ class verxn:
 
 def  __social__(self):
  self.gtb = "https://github.com/verxn1337"
- self.dsc = "verxn#1337" 
+ self.dsc = "verxnn" 
  self.ins = "berat7l"
   
  ┌──(verxn@root)-[~/]
