@@ -11,7 +11,7 @@ class verxn:
 
 def  __social__(self):
  self.gtb = "https://github.com/verxn1337"
- self.dsc = "verxnn" 
+ self.dsc = "verxn1337" 
  self.ins = "berat7l"
   
  ┌──(verxn@root)-[~/]
