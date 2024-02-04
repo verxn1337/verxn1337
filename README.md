@@ -12,7 +12,7 @@ class verxn:
 def  __social__(self):
  self.gtb = "https://github.com/verxn1337"
  self.dsc = "verxn1337" 
- self.ins = "berat7l"
+ self.ins = "37.64.11.74"
   
  ┌──(verxn@root)-[~/]
  └─$
